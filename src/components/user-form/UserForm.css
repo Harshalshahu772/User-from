@@ -1,0 +1,14 @@
+.width100{
+    width: 100%;
+}
+
+.user-form{
+    width: 500px;
+    height: auto;
+    display: flex;
+    margin: 20px;
+}
+
+.stack-form{
+    width: 400px;
+}
